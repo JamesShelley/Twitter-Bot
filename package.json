@@ -1,0 +1,12 @@
+{
+  "name": "twitter-bot",
+  "version": "",
+  "dependencies": {
+    "node-schedule": "^1.2.5",
+    "request": "^2.83.0",
+    "twit": "^2.2.9"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
